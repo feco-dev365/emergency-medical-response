@@ -1,5 +1,3 @@
-;; hospital-capacity.clar
-
 ;; Define data structures
 (define-map hospitals
   { id: uint }

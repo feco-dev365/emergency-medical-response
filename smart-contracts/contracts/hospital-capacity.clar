@@ -1,5 +1,3 @@
-;; hospital-capacity.clar
-
 ;; Define data structures
 (define-data-var hospital-id uint u0)
 (define-data-var hospital-name (string-ascii 50) "")
